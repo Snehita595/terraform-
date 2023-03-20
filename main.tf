@@ -68,6 +68,6 @@ resource "aws_security_group" "three" {
 }
 
 resource "aws_s3_bucket" "four" {
-  bucket = "snehita0077552bucketterra" 
+  bucket = "snehita0099552bucketterra" 
 }
 
